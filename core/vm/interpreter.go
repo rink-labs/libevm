@@ -17,10 +17,10 @@
 package vm
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/log"
 )
 
 // Config are the configuration options for the Interpreter

@@ -24,8 +24,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/core/vm"
 )
 
 // Compiler contains information about the parsed source

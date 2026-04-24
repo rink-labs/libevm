@@ -28,11 +28,11 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	. "github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/libevm/ethtest"
-	"github.com/ava-labs/libevm/libevm/pseudo"
-	"github.com/ava-labs/libevm/rlp"
+	. "github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/libevm/ethtest"
+	"github.com/rink-labs/libevm/libevm/pseudo"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 type stubHeaderHooks struct {

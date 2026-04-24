@@ -27,12 +27,12 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/ava-labs/libevm/accounts"
-	"github.com/ava-labs/libevm/accounts/usbwallet/trezor"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/accounts"
+	"github.com/rink-labs/libevm/accounts/usbwallet/trezor"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/log"
 	"github.com/golang/protobuf/proto"
 )
 

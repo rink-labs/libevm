@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/ava-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

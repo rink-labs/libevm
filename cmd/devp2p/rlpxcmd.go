@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/ava-labs/libevm/cmd/devp2p/internal/ethtest"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/rlpx"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/cmd/devp2p/internal/ethtest"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/rlpx"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/urfave/cli/v2"
 )
 

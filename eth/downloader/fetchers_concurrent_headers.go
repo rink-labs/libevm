@@ -19,9 +19,9 @@ package downloader
 import (
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/log"
 )
 
 // headerQueue implements typedQueue and is a type adapter between the generic

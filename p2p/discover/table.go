@@ -33,11 +33,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/metrics"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/netutil"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/netutil"
 )
 
 const (

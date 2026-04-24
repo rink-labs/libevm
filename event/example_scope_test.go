@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ava-labs/libevm/event"
+	"github.com/rink-labs/libevm/event"
 )
 
 // This example demonstrates how SubscriptionScope can be used to control the lifetime of

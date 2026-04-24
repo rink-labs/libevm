@@ -23,12 +23,12 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
 	"github.com/holiman/uint256"
 )
 

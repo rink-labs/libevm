@@ -25,10 +25,10 @@ import (
 	"time"
 
 	"github.com/VictoriaMetrics/fastcache"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/holiman/uint256"
 )
 

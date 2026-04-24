@@ -21,10 +21,10 @@ import (
 	"crypto/sha256"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/crypto/kzg4844"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/crypto/kzg4844"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/holiman/uint256"
 )
 

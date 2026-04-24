@@ -26,13 +26,13 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/ethdb/leveldb"
-	"github.com/ava-labs/libevm/ethdb/memorydb"
-	"github.com/ava-labs/libevm/ethdb/pebble"
-	"github.com/ava-labs/libevm/libevm/options"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/ethdb/leveldb"
+	"github.com/rink-labs/libevm/ethdb/memorydb"
+	"github.com/rink-labs/libevm/ethdb/pebble"
+	"github.com/rink-labs/libevm/libevm/options"
+	"github.com/rink-labs/libevm/log"
 	"github.com/olekukonko/tablewriter"
 )
 

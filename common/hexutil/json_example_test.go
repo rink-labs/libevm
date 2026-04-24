@@ -20,7 +20,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 type MyType [5]byte

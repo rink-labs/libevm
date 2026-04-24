@@ -27,8 +27,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/ava-labs/libevm/graphql/internal/graphiql"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/graphql/internal/graphiql"
+	"github.com/rink-labs/libevm/log"
 )
 
 // GraphiQL is an in-browser IDE for exploring GraphiQL APIs.

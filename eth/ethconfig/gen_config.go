@@ -5,13 +5,13 @@ package ethconfig
 import (
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/txpool/blobpool"
-	"github.com/ava-labs/libevm/core/txpool/legacypool"
-	"github.com/ava-labs/libevm/eth/downloader"
-	"github.com/ava-labs/libevm/eth/gasprice"
-	"github.com/ava-labs/libevm/miner"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/txpool/blobpool"
+	"github.com/rink-labs/libevm/core/txpool/legacypool"
+	"github.com/rink-labs/libevm/eth/downloader"
+	"github.com/rink-labs/libevm/eth/gasprice"
+	"github.com/rink-labs/libevm/miner"
 )
 
 // MarshalTOML marshals as TOML.

@@ -17,11 +17,11 @@
 package trie
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/trie/triestate"
-	"github.com/ava-labs/libevm/triedb/database"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/trie/triestate"
+	"github.com/rink-labs/libevm/triedb/database"
 )
 
 // trieReader is a wrapper of the underlying node reader. It's not safe

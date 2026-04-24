@@ -25,11 +25,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/ava-labs/libevm/accounts/keystore"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/console/prompt"
-	"github.com/ava-labs/libevm/p2p/dnsdisc"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/accounts/keystore"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/console/prompt"
+	"github.com/rink-labs/libevm/p2p/dnsdisc"
+	"github.com/rink-labs/libevm/p2p/enode"
 	"github.com/urfave/cli/v2"
 )
 

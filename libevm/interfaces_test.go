@@ -16,8 +16,8 @@
 package libevm_test
 
 import (
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/libevm"
 )
 
 // IMPORTANT: if any of these break then the libevm copy MUST be updated.

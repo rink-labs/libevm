@@ -21,9 +21,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/log"
 )
 
 // Prove constructs a merkle proof for key. The result contains all encoded nodes

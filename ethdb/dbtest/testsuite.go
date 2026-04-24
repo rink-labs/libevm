@@ -23,7 +23,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/ava-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/ethdb"
 	"golang.org/x/exp/slices"
 )
 

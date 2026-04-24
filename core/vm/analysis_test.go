@@ -20,7 +20,7 @@ import (
 	"math/bits"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/crypto"
 )
 
 func TestJumpDestAnalysis(t *testing.T) {

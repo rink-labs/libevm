@@ -24,11 +24,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/eth/tracers"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/eth/tracers"
+	"github.com/rink-labs/libevm/params"
 	"github.com/holiman/uint256"
 )
 

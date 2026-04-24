@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/rlp"
-	"github.com/ava-labs/libevm/trie/trienode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/trie/trienode"
 	"golang.org/x/crypto/sha3"
 )
 

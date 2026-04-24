@@ -25,12 +25,12 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/simulations"
-	"github.com/ava-labs/libevm/p2p/simulations/adapters"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/simulations"
+	"github.com/rink-labs/libevm/p2p/simulations/adapters"
 )
 
 var adapterType = flag.String("adapter", "sim", `node adapter to use (one of "sim", "exec" or "docker")`)

@@ -23,9 +23,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ava-labs/libevm/accounts"
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/accounts"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/log"
 	"github.com/karalabe/usb"
 )
 

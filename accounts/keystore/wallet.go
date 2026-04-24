@@ -19,10 +19,10 @@ package keystore
 import (
 	"math/big"
 
-	"github.com/ava-labs/libevm"
-	"github.com/ava-labs/libevm/accounts"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm"
+	"github.com/rink-labs/libevm/accounts"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
 )
 
 // keystoreWallet implements the accounts.Wallet interface for the original

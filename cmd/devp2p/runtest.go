@@ -19,10 +19,10 @@ package main
 import (
 	"os"
 
-	"github.com/ava-labs/libevm/cmd/devp2p/internal/v4test"
-	"github.com/ava-labs/libevm/internal/flags"
-	"github.com/ava-labs/libevm/internal/utesting"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/cmd/devp2p/internal/v4test"
+	"github.com/rink-labs/libevm/internal/flags"
+	"github.com/rink-labs/libevm/internal/utesting"
+	"github.com/rink-labs/libevm/log"
 	"github.com/urfave/cli/v2"
 )
 

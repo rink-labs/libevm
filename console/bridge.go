@@ -26,12 +26,12 @@ import (
 	"time"
 
 	"github.com/dop251/goja"
-	"github.com/ava-labs/libevm/accounts/scwallet"
-	"github.com/ava-labs/libevm/accounts/usbwallet"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/console/prompt"
-	"github.com/ava-labs/libevm/internal/jsre"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/accounts/scwallet"
+	"github.com/rink-labs/libevm/accounts/usbwallet"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/console/prompt"
+	"github.com/rink-labs/libevm/internal/jsre"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // bridge is a collection of JavaScript utility methods to bride the .js runtime

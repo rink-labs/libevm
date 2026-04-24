@@ -2,7 +2,7 @@
 
 package types
 
-import "github.com/ava-labs/libevm/rlp"
+import "github.com/rink-labs/libevm/rlp"
 import "io"
 
 func (obj *Withdrawal) EncodeRLP(_w io.Writer) error {

@@ -21,9 +21,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/triedb/database"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/triedb/database"
 )
 
 func TestDBOverride(t *testing.T) {

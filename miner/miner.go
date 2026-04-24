@@ -23,17 +23,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/consensus"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/txpool"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/eth/downloader"
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/consensus"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/txpool"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/eth/downloader"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/params"
 )
 
 // Backend wraps all methods required for mining. Only full node is capable

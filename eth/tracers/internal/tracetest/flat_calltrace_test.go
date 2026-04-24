@@ -10,17 +10,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/rlp"
-	"github.com/ava-labs/libevm/tests"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/tests"
 
 	// Force-load the native, to trigger registration
-	"github.com/ava-labs/libevm/eth/tracers"
+	"github.com/rink-labs/libevm/eth/tracers"
 )
 
 // flatCallTrace is the result of a callTracerParity run.

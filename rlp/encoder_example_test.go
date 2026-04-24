@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 type MyCoolType struct {

@@ -17,7 +17,7 @@
 // Package ethapi exposes the internal ethapi package.
 package ethapi
 
-import "github.com/ava-labs/libevm/internal/ethapi"
+import "github.com/rink-labs/libevm/internal/ethapi"
 
 // Type aliases required by constructors.
 type (

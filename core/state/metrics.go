@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/ava-labs/libevm/metrics"
+import "github.com/rink-labs/libevm/metrics"
 
 var (
 	accountUpdatedMeter      = metrics.NewRegisteredMeter("state/update/account", nil)

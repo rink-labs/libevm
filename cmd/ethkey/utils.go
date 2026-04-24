@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ava-labs/libevm/cmd/utils"
+	"github.com/rink-labs/libevm/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

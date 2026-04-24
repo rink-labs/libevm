@@ -5,8 +5,8 @@ package native
 import (
 	"encoding/json"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 var _ = (*flatCallResultMarshaling)(nil)

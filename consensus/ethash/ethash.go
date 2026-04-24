@@ -20,9 +20,9 @@ package ethash
 import (
 	"time"
 
-	"github.com/ava-labs/libevm/consensus"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/consensus"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // Ethash is a consensus engine based on proof-of-work implementing the ethash

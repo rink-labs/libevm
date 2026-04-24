@@ -24,7 +24,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 )
 
 type storedCredential struct {

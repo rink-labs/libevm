@@ -22,16 +22,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/eth"
-	"github.com/ava-labs/libevm/eth/downloader"
-	"github.com/ava-labs/libevm/eth/ethconfig"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/eth"
+	"github.com/rink-labs/libevm/eth/downloader"
+	"github.com/rink-labs/libevm/eth/ethconfig"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/params"
 )
 
 func startSimulatedBeaconEthService(t *testing.T, genesis *core.Genesis) (*node.Node, *eth.Ethereum, *SimulatedBeacon) {

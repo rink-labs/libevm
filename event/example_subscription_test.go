@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/ava-labs/libevm/event"
+	"github.com/rink-labs/libevm/event"
 )
 
 func ExampleNewSubscription() {

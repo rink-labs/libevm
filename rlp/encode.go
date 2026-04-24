@@ -23,7 +23,7 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ava-labs/libevm/rlp/internal/rlpstruct"
+	"github.com/rink-labs/libevm/rlp/internal/rlpstruct"
 	"github.com/holiman/uint256"
 )
 

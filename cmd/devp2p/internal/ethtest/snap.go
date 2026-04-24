@@ -24,14 +24,14 @@ import (
 	"math/rand"
 	"reflect"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/eth/protocols/snap"
-	"github.com/ava-labs/libevm/internal/utesting"
-	"github.com/ava-labs/libevm/trie"
-	"github.com/ava-labs/libevm/trie/trienode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/eth/protocols/snap"
+	"github.com/rink-labs/libevm/internal/utesting"
+	"github.com/rink-labs/libevm/trie"
+	"github.com/rink-labs/libevm/trie/trienode"
 	"golang.org/x/crypto/sha3"
 )
 

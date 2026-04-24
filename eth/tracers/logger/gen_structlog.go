@@ -5,10 +5,10 @@ package logger
 import (
 	"encoding/json"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/core/vm"
 	"github.com/holiman/uint256"
 )
 

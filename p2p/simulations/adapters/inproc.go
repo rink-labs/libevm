@@ -24,13 +24,13 @@ import (
 	"net"
 	"sync"
 
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/simulations/pipes"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/simulations/pipes"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/gorilla/websocket"
 )
 

@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/metrics"
-	"github.com/ava-labs/libevm/metrics/internal"
+	"github.com/rink-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/metrics/internal"
 )
 
 func TestMain(m *testing.M) {

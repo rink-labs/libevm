@@ -20,8 +20,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 func newTestFullNode(v []byte) []interface{} {

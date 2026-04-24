@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
 )
 
 var (

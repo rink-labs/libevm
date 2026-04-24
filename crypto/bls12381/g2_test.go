@@ -6,7 +6,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 func (g *G2) one() *PointG2 {

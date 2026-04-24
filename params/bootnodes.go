@@ -16,7 +16,7 @@
 
 package params
 
-import "github.com/ava-labs/libevm/common"
+import "github.com/rink-labs/libevm/common"
 
 // MainnetBootnodes are the enode URLs of the P2P bootstrap nodes running on
 // the main Ethereum network.

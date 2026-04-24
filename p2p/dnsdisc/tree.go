@@ -25,10 +25,10 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/rlp"
 	"golang.org/x/crypto/sha3"
 	"golang.org/x/exp/slices"
 )

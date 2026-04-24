@@ -40,7 +40,7 @@ import (
 	"io"
 	"sort"
 
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 const SizeLimit = 300 // maximum encoded size of a node record in bytes

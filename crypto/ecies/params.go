@@ -43,7 +43,7 @@ import (
 	"fmt"
 	"hash"
 
-	ethcrypto "github.com/ava-labs/libevm/crypto"
+	ethcrypto "github.com/rink-labs/libevm/crypto"
 )
 
 var (

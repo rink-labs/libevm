@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/forkid"
-	"github.com/ava-labs/libevm/metrics"
-	"github.com/ava-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/forkid"
+	"github.com/rink-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/p2p"
 )
 
 const (

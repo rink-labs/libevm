@@ -23,9 +23,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ava-labs/libevm/internal/version"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/internal/version"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/params"
 	"github.com/mattn/go-isatty"
 	"github.com/urfave/cli/v2"
 )

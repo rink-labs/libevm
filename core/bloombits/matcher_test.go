@@ -23,7 +23,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 const testSectionSize = 4096

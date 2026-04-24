@@ -22,14 +22,14 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/ava-labs/libevm/cmd/evm/internal/t8ntool"
-	"github.com/ava-labs/libevm/internal/debug"
-	"github.com/ava-labs/libevm/internal/flags"
+	"github.com/rink-labs/libevm/cmd/evm/internal/t8ntool"
+	"github.com/rink-labs/libevm/internal/debug"
+	"github.com/rink-labs/libevm/internal/flags"
 	"github.com/urfave/cli/v2"
 
 	// Force-load the tracer engines to trigger registration
-	_ "github.com/ava-labs/libevm/eth/tracers/js"
-	_ "github.com/ava-labs/libevm/eth/tracers/native"
+	_ "github.com/rink-labs/libevm/eth/tracers/js"
+	_ "github.com/rink-labs/libevm/eth/tracers/native"
 )
 
 var (

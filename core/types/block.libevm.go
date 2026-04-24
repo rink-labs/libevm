@@ -20,8 +20,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/ava-labs/libevm/libevm/pseudo"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/libevm/pseudo"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 // HeaderHooks are required for all types registered with [RegisterExtras] for

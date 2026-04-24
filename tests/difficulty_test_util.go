@@ -20,11 +20,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
 )
 
 //go:generate go run github.com/fjl/gencodec -type DifficultyTest -field-override difficultyTestMarshaling -out gen_difficultytest.go

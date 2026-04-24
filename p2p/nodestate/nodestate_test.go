@@ -23,11 +23,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 func testSetup(flagPersist []bool, fieldType []reflect.Type) (*Setup, []Flags, []Field) {

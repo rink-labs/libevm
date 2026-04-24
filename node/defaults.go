@@ -22,9 +22,9 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/nat"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/nat"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 const (

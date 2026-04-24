@@ -24,12 +24,12 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/ava-labs/libevm/accounts/abi/bind"
-	"github.com/ava-labs/libevm/cmd/utils"
-	"github.com/ava-labs/libevm/common/compiler"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/internal/flags"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/accounts/abi/bind"
+	"github.com/rink-labs/libevm/cmd/utils"
+	"github.com/rink-labs/libevm/common/compiler"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/internal/flags"
+	"github.com/rink-labs/libevm/log"
 	"github.com/urfave/cli/v2"
 )
 

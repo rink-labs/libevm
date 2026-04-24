@@ -21,8 +21,8 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/log"
 )
 
 const tmpSuffix = ".tmp"

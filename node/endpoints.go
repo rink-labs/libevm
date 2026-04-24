@@ -21,8 +21,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // StartHTTPEndpoint starts the HTTP RPC endpoint.

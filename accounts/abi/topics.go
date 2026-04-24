@@ -23,9 +23,9 @@ import (
 	"math/big"
 	"reflect"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/crypto"
 )
 
 // MakeTopics converts a filter query argument list into a filter topic set.

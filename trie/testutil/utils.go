@@ -21,9 +21,9 @@ import (
 	"encoding/binary"
 	mrand "math/rand"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/trie/trienode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/trie/trienode"
 )
 
 // Prng is a pseudo random number generator seeded by strong randomness.

@@ -19,10 +19,10 @@ package simulations
 import (
 	"testing"
 
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // NoopService is the service that does not do anything

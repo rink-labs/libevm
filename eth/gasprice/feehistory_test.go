@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 func TestFeeHistory(t *testing.T) {

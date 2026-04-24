@@ -21,12 +21,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/rlp"
-	"github.com/ava-labs/libevm/trie"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/trie"
 )
 
 // DumpConfig is a set of options to control what portions of the state will be

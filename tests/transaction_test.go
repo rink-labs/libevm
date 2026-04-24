@@ -19,7 +19,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/params"
 )
 
 func TestTransaction(t *testing.T) {

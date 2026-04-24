@@ -21,8 +21,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ava-labs/libevm/internal/cmdtest"
-	"github.com/ava-labs/libevm/internal/reexec"
+	"github.com/rink-labs/libevm/internal/cmdtest"
+	"github.com/rink-labs/libevm/internal/reexec"
 )
 
 const registeredName = "clef-test"

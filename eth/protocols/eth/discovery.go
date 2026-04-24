@@ -17,10 +17,10 @@
 package eth
 
 import (
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/forkid"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/forkid"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `eth` protocol on the discovery.

@@ -19,7 +19,7 @@ package vm
 import (
 	"errors"
 
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/params"
 )
 
 // LookupInstructionSet returns the instruction set for the fork configured by

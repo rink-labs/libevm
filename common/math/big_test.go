@@ -22,7 +22,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 func TestHexOrDecimal256(t *testing.T) {

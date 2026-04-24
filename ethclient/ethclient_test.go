@@ -25,17 +25,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/eth"
-	"github.com/ava-labs/libevm/eth/ethconfig"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/eth"
+	"github.com/rink-labs/libevm/eth/ethconfig"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // Verify that Client implements the ethereum interfaces.

@@ -23,12 +23,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/params"
 )
 
 // NewZeroEVM returns a new EVM backed by a [rawdb.NewMemoryDatabase]; all other

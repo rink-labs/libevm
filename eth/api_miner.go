@@ -20,8 +20,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 // MinerAPI provides an API to control the miner.

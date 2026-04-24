@@ -20,11 +20,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/eth/downloader"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/eth/protocols/snap"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/eth/downloader"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/eth/protocols/snap"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 // Tests that snap sync is disabled after a successful sync cycle.

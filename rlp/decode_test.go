@@ -27,7 +27,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/common/math"
 	"github.com/holiman/uint256"
 )
 

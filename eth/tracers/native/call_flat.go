@@ -23,10 +23,10 @@ import (
 	"math/big"
 	"strings"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/eth/tracers"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/eth/tracers"
 )
 
 //go:generate go run github.com/fjl/gencodec -type flatCallAction -field-override flatCallActionMarshaling -out gen_flatcallaction_json.go

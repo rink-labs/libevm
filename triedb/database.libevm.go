@@ -17,13 +17,13 @@
 package triedb
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/trie/triestate"
-	"github.com/ava-labs/libevm/triedb/database"
-	"github.com/ava-labs/libevm/triedb/hashdb"
-	"github.com/ava-labs/libevm/triedb/pathdb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/trie/triestate"
+	"github.com/rink-labs/libevm/triedb/database"
+	"github.com/rink-labs/libevm/triedb/hashdb"
+	"github.com/rink-labs/libevm/triedb/pathdb"
 )
 
 // BackendDB defines the intersection of methods shared by [hashdb.Database] and

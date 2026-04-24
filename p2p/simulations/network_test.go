@@ -27,10 +27,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/simulations/adapters"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/simulations/adapters"
 )
 
 // Tests that a created snapshot with a minimal service only contains the expected connections

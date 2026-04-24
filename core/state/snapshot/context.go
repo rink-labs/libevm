@@ -22,12 +22,12 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/ethdb/memorydb"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/ethdb/memorydb"
+	"github.com/rink-labs/libevm/log"
 )
 
 const (

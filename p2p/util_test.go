@@ -20,7 +20,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/common/mclock"
 )
 
 func TestExpHeap(t *testing.T) {

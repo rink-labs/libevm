@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 // MarshalJSON marshals as JSON.

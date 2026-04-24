@@ -17,9 +17,9 @@
 package eth
 
 import (
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/eth/protocols/snap"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/eth/protocols/snap"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 // snapHandler implements the snap.Backend interface to handle the various network

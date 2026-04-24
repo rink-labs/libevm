@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

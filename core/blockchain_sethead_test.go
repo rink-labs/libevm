@@ -27,16 +27,16 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/triedb"
-	"github.com/ava-labs/libevm/triedb/hashdb"
-	"github.com/ava-labs/libevm/triedb/pathdb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/triedb"
+	"github.com/rink-labs/libevm/triedb/hashdb"
+	"github.com/rink-labs/libevm/triedb/pathdb"
 )
 
 // rewindTest is a test case for chain rollback upon user request.

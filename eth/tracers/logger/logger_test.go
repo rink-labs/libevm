@@ -22,14 +22,14 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/params"
 	"github.com/holiman/uint256"
 
 	// libevm extra imports
-	"github.com/ava-labs/libevm/libevm/stateconf"
+	"github.com/rink-labs/libevm/libevm/stateconf"
 )
 
 type dummyContractRef struct {

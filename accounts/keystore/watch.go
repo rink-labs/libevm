@@ -23,7 +23,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 	"github.com/fsnotify/fsnotify"
 )
 

@@ -21,11 +21,11 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 	// To ensure that all methods are available to importing packages, this test
 	// is defined in package `rawdb_test` instead of `rawdb`.
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/ethdb"
 )
 
 // ExampleDatabaseStat demonstrates the method signatures of DatabaseStat, which

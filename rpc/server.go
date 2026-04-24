@@ -22,7 +22,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 )
 
 const MetadataApi = "rpc"

@@ -25,11 +25,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/forkid"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/forkid"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/urfave/cli/v2"
 )
 

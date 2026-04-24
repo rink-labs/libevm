@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ava-labs/libevm/signer/core/apitypes"
-	"github.com/ava-labs/libevm/signer/fourbyte"
+	"github.com/rink-labs/libevm/signer/core/apitypes"
+	"github.com/rink-labs/libevm/signer/fourbyte"
 )
 
 func init() {

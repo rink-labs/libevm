@@ -21,7 +21,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/common/mclock"
 )
 
 // Subscription represents a stream of events. The carrier of the events is typically a

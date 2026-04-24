@@ -23,12 +23,12 @@ import (
 	"github.com/holiman/uint256"
 	"golang.org/x/exp/slog"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/libevm"
-	"github.com/ava-labs/libevm/libevm/set"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/libevm/set"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/params"
 )
 
 // P256Verify is a [PrecompiledContract] implementation of P-256 (secp256r1)

@@ -23,7 +23,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/ava-labs/libevm/p2p/simulations/pipes"
+	"github.com/rink-labs/libevm/p2p/simulations/pipes"
 )
 
 func TestTCPPipe(t *testing.T) {

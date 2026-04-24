@@ -19,7 +19,7 @@ package snap
 import (
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 	"github.com/holiman/uint256"
 )
 

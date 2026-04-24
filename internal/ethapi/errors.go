@@ -19,9 +19,9 @@ package ethapi
 import (
 	"fmt"
 
-	"github.com/ava-labs/libevm/accounts/abi"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/accounts/abi"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/vm"
 )
 
 // revertError is an API error that encompasses an EVM revert with JSON error

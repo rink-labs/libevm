@@ -22,7 +22,7 @@ package metrics
 import (
 	syscall "golang.org/x/sys/unix"
 
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 )
 
 // getProcessCPUTime retrieves the process' CPU time since program startup.

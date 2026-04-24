@@ -17,10 +17,10 @@
 package state
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/libevm/options"
-	"github.com/ava-labs/libevm/libevm/sync"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/libevm/options"
+	"github.com/rink-labs/libevm/libevm/sync"
+	"github.com/rink-labs/libevm/log"
 )
 
 // A PrefetcherOption configures behaviour of trie prefetching.

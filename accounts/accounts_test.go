@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 func TestTextHash(t *testing.T) {

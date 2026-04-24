@@ -17,9 +17,9 @@
 package vm
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/libevm"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/log"
 )
 
 // canCreateContract is a convenience wrapper for calling the

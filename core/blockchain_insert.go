@@ -19,10 +19,10 @@ package core
 import (
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/log"
 )
 
 // insertStats tracks and reports on block insertion.

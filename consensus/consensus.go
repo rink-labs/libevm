@@ -20,11 +20,11 @@ package consensus
 import (
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // ChainHeaderReader defines a small collection of methods needed to access the local

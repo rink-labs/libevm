@@ -21,12 +21,12 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	cmath "github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/crypto/kzg4844"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	cmath "github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/crypto/kzg4844"
+	"github.com/rink-labs/libevm/params"
 	"github.com/holiman/uint256"
 )
 

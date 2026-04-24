@@ -21,14 +21,14 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/lru"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/lru"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rpc"
 	"golang.org/x/exp/slices"
 )
 

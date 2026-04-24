@@ -25,14 +25,14 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/console/prompt"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/eth"
-	"github.com/ava-labs/libevm/eth/ethconfig"
-	"github.com/ava-labs/libevm/internal/jsre"
-	"github.com/ava-labs/libevm/miner"
-	"github.com/ava-labs/libevm/node"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/console/prompt"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/eth"
+	"github.com/rink-labs/libevm/eth/ethconfig"
+	"github.com/rink-labs/libevm/internal/jsre"
+	"github.com/rink-labs/libevm/miner"
+	"github.com/rink-labs/libevm/node"
 )
 
 const (

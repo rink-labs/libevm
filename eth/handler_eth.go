@@ -22,11 +22,11 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 // ethHandler implements the eth.Backend interface to handle the various network

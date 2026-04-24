@@ -22,10 +22,10 @@ import (
 	"os"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/internal/utesting"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/internal/utesting"
 )
 
 // sendTxs sends the given transactions to the node and

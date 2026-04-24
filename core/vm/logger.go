@@ -19,7 +19,7 @@ package vm
 import (
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 // EVMLogger is used to collect execution traces from an EVM transaction

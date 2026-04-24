@@ -22,13 +22,13 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/ethdb/memorydb"
-	"github.com/ava-labs/libevm/trie/trienode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/ethdb/memorydb"
+	"github.com/rink-labs/libevm/trie/trienode"
 )
 
 // makeTestTrie create a sample test trie to test node-wise reconstruction.

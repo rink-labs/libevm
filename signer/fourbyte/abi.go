@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ava-labs/libevm/accounts/abi"
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/accounts/abi"
+	"github.com/rink-labs/libevm/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

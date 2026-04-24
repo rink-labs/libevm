@@ -23,9 +23,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/ava-labs/libevm/libevm/ethtest"
-	"github.com/ava-labs/libevm/libevm/hookstest"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/libevm/ethtest"
+	"github.com/rink-labs/libevm/libevm/hookstest"
+	"github.com/rink-labs/libevm/params"
 )
 
 func TestChainConfigHooks_Description(t *testing.T) {

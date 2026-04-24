@@ -17,8 +17,8 @@
 package eth
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 // EthereumAPI provides an API to access Ethereum full node-related information.

@@ -26,8 +26,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 var errMissingPrefix = errors.New("missing 'enr:' prefix for base64-encoded record")

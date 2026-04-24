@@ -22,8 +22,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/accounts/abi"
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/accounts/abi"
+	"github.com/rink-labs/libevm/common"
 )
 
 func verify(t *testing.T, jsondata, calldata string, exp []interface{}) {

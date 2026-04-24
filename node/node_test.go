@@ -26,10 +26,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/rpc"
 
 	"github.com/stretchr/testify/assert"
 )

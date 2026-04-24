@@ -30,11 +30,11 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/simulations/adapters"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/simulations/adapters"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/gorilla/websocket"
 	"github.com/julienschmidt/httprouter"
 )

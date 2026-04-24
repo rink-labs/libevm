@@ -25,10 +25,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/console/prompt"
-	"github.com/ava-labs/libevm/internal/ethapi"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/console/prompt"
+	"github.com/rink-labs/libevm/internal/ethapi"
+	"github.com/rink-labs/libevm/log"
 )
 
 type CommandlineUI struct {

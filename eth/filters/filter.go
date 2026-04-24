@@ -21,10 +21,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/bloombits"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/bloombits"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // Filter can be used to retrieve and filter logs.

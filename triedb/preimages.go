@@ -19,9 +19,9 @@ package triedb
 import (
 	"sync"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/ethdb"
 )
 
 // preimageStore is the store for caching preimages of node key.

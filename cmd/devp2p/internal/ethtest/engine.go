@@ -25,7 +25,7 @@ import (
 	"path"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 	"github.com/golang-jwt/jwt/v4"
 )
 

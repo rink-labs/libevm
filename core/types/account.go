@@ -23,9 +23,9 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/math"
 )
 
 //go:generate go run github.com/fjl/gencodec -type Account -field-override accountMarshaling -out gen_account.go

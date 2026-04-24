@@ -20,7 +20,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 var (

@@ -24,9 +24,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/simulations/adapters"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/simulations/adapters"
 )
 
 // a map of mocker names to its function

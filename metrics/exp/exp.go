@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/metrics"
-	"github.com/ava-labs/libevm/metrics/prometheus"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/metrics/prometheus"
 )
 
 type exp struct {

@@ -29,10 +29,10 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/crypto/ecies"
-	"github.com/ava-labs/libevm/p2p/simulations/pipes"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/crypto/ecies"
+	"github.com/rink-labs/libevm/p2p/simulations/pipes"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

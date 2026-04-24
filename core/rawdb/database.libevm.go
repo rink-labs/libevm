@@ -17,8 +17,8 @@
 package rawdb
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/libevm/options"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/libevm/options"
 )
 
 // An InspectDatabaseOption configures the behaviour of [InspectDatabase].

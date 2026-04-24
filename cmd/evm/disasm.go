@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ava-labs/libevm/core/asm"
+	"github.com/rink-labs/libevm/core/asm"
 	"github.com/urfave/cli/v2"
 )
 

@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/common"
 )
 
 // LegacyTx is the transaction data of the original Ethereum transactions.

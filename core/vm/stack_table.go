@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/params"
 )
 
 func minSwapStack(n int) int {

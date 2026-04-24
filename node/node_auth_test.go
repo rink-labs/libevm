@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/golang-jwt/jwt/v4"
 )
 

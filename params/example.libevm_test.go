@@ -33,10 +33,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/libevm"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/params"
 )
 
 // In practice this would be a regular init() function but nuances around the

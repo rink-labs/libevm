@@ -20,10 +20,10 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/ava-labs/libevm/common/lru"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/common/lru"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 // canonicalStore stores instances of the given type in a database and caches

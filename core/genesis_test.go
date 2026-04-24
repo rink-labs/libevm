@@ -24,15 +24,15 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/triedb"
-	"github.com/ava-labs/libevm/triedb/pathdb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/triedb"
+	"github.com/rink-labs/libevm/triedb/pathdb"
 )
 
 func TestInvalidCliqueConfig(t *testing.T) {

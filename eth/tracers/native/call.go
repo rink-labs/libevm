@@ -22,12 +22,12 @@ import (
 	"math/big"
 	"sync/atomic"
 
-	"github.com/ava-labs/libevm/accounts/abi"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/eth/tracers"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/accounts/abi"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/eth/tracers"
+	"github.com/rink-labs/libevm/log"
 )
 
 //go:generate go run github.com/fjl/gencodec -type callFrame -field-override callFrameMarshaling -out gen_callframe_json.go

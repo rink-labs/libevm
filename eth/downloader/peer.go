@@ -25,11 +25,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/event"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/msgrate"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/event"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/msgrate"
 )
 
 const (

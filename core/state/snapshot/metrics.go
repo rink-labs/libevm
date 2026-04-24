@@ -16,7 +16,7 @@
 
 package snapshot
 
-import "github.com/ava-labs/libevm/metrics"
+import "github.com/rink-labs/libevm/metrics"
 
 // Metrics in generation
 var (

@@ -22,9 +22,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/ava-labs/libevm/accounts/keystore"
-	"github.com/ava-labs/libevm/cmd/utils"
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/accounts/keystore"
+	"github.com/rink-labs/libevm/cmd/utils"
+	"github.com/rink-labs/libevm/crypto"
 	"github.com/google/uuid"
 	"github.com/urfave/cli/v2"
 )

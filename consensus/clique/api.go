@@ -20,12 +20,12 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/consensus"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/rlp"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/consensus"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

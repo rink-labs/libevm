@@ -16,7 +16,7 @@
 
 package eth
 
-import "github.com/ava-labs/libevm/metrics"
+import "github.com/rink-labs/libevm/metrics"
 
 // meters stores ingress and egress handshake meters.
 var meters bidirectionalMeters

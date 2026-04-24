@@ -26,10 +26,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/math"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/math"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
 )
 
 type diffTest struct {

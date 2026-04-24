@@ -19,11 +19,11 @@ package state
 import (
 	"reflect"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/state/snapshot"
-	"github.com/ava-labs/libevm/libevm"
-	"github.com/ava-labs/libevm/libevm/register"
-	"github.com/ava-labs/libevm/libevm/stateconf"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/state/snapshot"
+	"github.com/rink-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/libevm/register"
+	"github.com/rink-labs/libevm/libevm/stateconf"
 )
 
 // TxHash returns the current transaction hash set by [StateDB.SetTxContext].

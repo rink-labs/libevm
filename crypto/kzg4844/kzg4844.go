@@ -24,7 +24,7 @@ import (
 	"reflect"
 	"sync/atomic"
 
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 //go:embed trusted_setup.json

@@ -17,7 +17,7 @@
 package blobpool
 
 import (
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 )
 
 // Config are the configuration parameters of the blob transaction pool.

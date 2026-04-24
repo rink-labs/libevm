@@ -21,8 +21,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/rawdb"
 )
 
 func TestBlockchain(t *testing.T) {

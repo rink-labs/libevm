@@ -3,7 +3,7 @@ package influxdb
 import (
 	"fmt"
 
-	"github.com/ava-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/metrics"
 )
 
 func readMeter(namespace, name string, i interface{}) (string, map[string]interface{}) {

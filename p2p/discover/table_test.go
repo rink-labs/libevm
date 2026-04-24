@@ -27,10 +27,10 @@ import (
 	"testing/quick"
 	"time"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/p2p/netutil"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/p2p/netutil"
 )
 
 func TestTable_pingReplace(t *testing.T) {

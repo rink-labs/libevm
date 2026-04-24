@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ava-labs/libevm/cmd/evm/internal/compiler"
+	"github.com/rink-labs/libevm/cmd/evm/internal/compiler"
 
 	"github.com/urfave/cli/v2"
 )

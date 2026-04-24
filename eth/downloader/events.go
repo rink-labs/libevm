@@ -16,7 +16,7 @@
 
 package downloader
 
-import "github.com/ava-labs/libevm/core/types"
+import "github.com/rink-labs/libevm/core/types"
 
 type DoneEvent struct {
 	Latest *types.Header

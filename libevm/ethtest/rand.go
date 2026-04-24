@@ -22,8 +22,8 @@ import (
 	"github.com/holiman/uint256"
 	"golang.org/x/exp/rand"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
 )
 
 // PseudoRand extends [rand.Rand] (*not* crypto/rand).

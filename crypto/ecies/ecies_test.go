@@ -39,7 +39,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/crypto"
 )
 
 func TestKDF(t *testing.T) {

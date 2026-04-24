@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/libevm/options"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/libevm/options"
 )
 
 type tableSize struct {

@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/txpool"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/txpool"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto"
 	"github.com/holiman/uint256"
 )
 

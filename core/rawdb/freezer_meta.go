@@ -20,8 +20,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 const freezerVersion = 1 // The initial version tag of freezer table metadata

@@ -20,7 +20,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/params"
 )
 
 var (

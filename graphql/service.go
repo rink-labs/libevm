@@ -24,10 +24,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/eth/filters"
-	"github.com/ava-labs/libevm/internal/ethapi"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/eth/filters"
+	"github.com/rink-labs/libevm/internal/ethapi"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/graph-gophers/graphql-go"
 	gqlErrors "github.com/graph-gophers/graphql-go/errors"
 )

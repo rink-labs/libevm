@@ -23,11 +23,11 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/params"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/params"
+	"github.com/rink-labs/libevm/rlp"
 )
 
 // TestCreation tests that different genesis and fork rule combinations result in

@@ -20,10 +20,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/forkid"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/forkid"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 // Tests that handshake failures are detected and reported correctly.

@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/rpc"
 )
 
 // In this example, our client wishes to track the latest 'block number'

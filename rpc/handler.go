@@ -25,7 +25,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 )
 
 // handler handles JSON-RPC messages. There is one handler per connection. Note that

@@ -19,11 +19,11 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/ava-labs/libevm/consensus"
-	"github.com/ava-labs/libevm/core/state"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/consensus"
+	"github.com/rink-labs/libevm/core/state"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/params"
 )
 
 // statePrefetcher is a basic Prefetcher, which blindly executes a block on top

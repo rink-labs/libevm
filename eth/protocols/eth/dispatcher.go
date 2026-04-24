@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ava-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p"
 )
 
 var (

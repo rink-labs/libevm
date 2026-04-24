@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/crypto"
 )
 
 type bytesBacked interface {

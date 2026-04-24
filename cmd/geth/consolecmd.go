@@ -20,9 +20,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/ava-labs/libevm/cmd/utils"
-	"github.com/ava-labs/libevm/console"
-	"github.com/ava-labs/libevm/internal/flags"
+	"github.com/rink-labs/libevm/cmd/utils"
+	"github.com/rink-labs/libevm/console"
+	"github.com/rink-labs/libevm/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

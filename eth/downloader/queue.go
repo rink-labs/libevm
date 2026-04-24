@@ -26,13 +26,13 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/common/prque"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/crypto/kzg4844"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/metrics"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/common/prque"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/crypto/kzg4844"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/params"
 )
 
 const (

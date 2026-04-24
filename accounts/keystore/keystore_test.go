@@ -26,10 +26,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/accounts"
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/event"
+	"github.com/rink-labs/libevm/accounts"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/event"
 	"golang.org/x/exp/slices"
 )
 

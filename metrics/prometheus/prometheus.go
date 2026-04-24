@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"sort"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/metrics"
 )
 
 // Handler returns an HTTP handler which dump metrics in Prometheus format.

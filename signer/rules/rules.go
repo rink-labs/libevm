@@ -24,11 +24,11 @@ import (
 	"strings"
 
 	"github.com/dop251/goja"
-	"github.com/ava-labs/libevm/internal/ethapi"
-	"github.com/ava-labs/libevm/internal/jsre/deps"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/signer/core"
-	"github.com/ava-labs/libevm/signer/storage"
+	"github.com/rink-labs/libevm/internal/ethapi"
+	"github.com/rink-labs/libevm/internal/jsre/deps"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/signer/core"
+	"github.com/rink-labs/libevm/signer/storage"
 )
 
 // consoleOutput is an override for the console.log and console.error methods to

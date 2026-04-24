@@ -34,12 +34,12 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ava-labs/libevm/internal/reexec"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/node"
-	"github.com/ava-labs/libevm/p2p"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/internal/reexec"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/node"
+	"github.com/rink-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/gorilla/websocket"
 	"golang.org/x/exp/slog"
 )

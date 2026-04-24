@@ -32,7 +32,7 @@ import (
 	"text/template"
 	"time"
 
-	"github.com/ava-labs/libevm/internal/reexec"
+	"github.com/rink-labs/libevm/internal/reexec"
 )
 
 func NewTestCmd(t *testing.T, data interface{}) *TestCmd {

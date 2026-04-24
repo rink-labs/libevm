@@ -22,8 +22,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ava-labs/libevm/internal/version"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/internal/version"
+	"github.com/rink-labs/libevm/params"
 	"github.com/urfave/cli/v2"
 )
 

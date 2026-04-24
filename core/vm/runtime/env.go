@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

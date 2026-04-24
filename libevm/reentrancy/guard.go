@@ -23,10 +23,10 @@
 package reentrancy
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/libevm"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/libevm"
 )
 
 var slotPreimagePrefix = []byte("libevm-reentrancy-guard-")

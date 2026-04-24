@@ -22,10 +22,10 @@ import (
 	"math/big"
 	"sync"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/eth/protocols/snap"
-	"github.com/ava-labs/libevm/p2p"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/eth/protocols/snap"
+	"github.com/rink-labs/libevm/p2p"
 )
 
 var (

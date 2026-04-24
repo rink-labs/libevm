@@ -29,8 +29,8 @@ import (
 	"text/template"
 	"unicode"
 
-	"github.com/ava-labs/libevm/accounts/abi"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/accounts/abi"
+	"github.com/rink-labs/libevm/log"
 )
 
 // Lang is a target programming language selector to generate bindings for.

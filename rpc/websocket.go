@@ -28,7 +28,7 @@ import (
 	"time"
 
 	mapset "github.com/deckarep/golang-set/v2"
-	"github.com/ava-labs/libevm/log"
+	"github.com/rink-labs/libevm/log"
 	"github.com/gorilla/websocket"
 )
 

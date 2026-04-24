@@ -17,8 +17,8 @@
 package eth
 
 import (
-	"github.com/ava-labs/libevm/eth/protocols/eth"
-	"github.com/ava-labs/libevm/eth/protocols/snap"
+	"github.com/rink-labs/libevm/eth/protocols/eth"
+	"github.com/rink-labs/libevm/eth/protocols/snap"
 )
 
 // ethPeerInfo represents a short summary of the `eth` sub-protocol metadata known

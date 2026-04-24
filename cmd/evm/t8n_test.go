@@ -24,9 +24,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/cmd/evm/internal/t8ntool"
-	"github.com/ava-labs/libevm/internal/cmdtest"
-	"github.com/ava-labs/libevm/internal/reexec"
+	"github.com/rink-labs/libevm/cmd/evm/internal/t8ntool"
+	"github.com/rink-labs/libevm/internal/cmdtest"
+	"github.com/rink-labs/libevm/internal/reexec"
 )
 
 func TestMain(m *testing.M) {

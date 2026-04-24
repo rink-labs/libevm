@@ -31,11 +31,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/internal/testlog"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/discover/v4wire"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/internal/testlog"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/discover/v4wire"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
 )
 
 // shared test variables

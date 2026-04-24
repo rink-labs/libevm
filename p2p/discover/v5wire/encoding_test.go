@@ -30,10 +30,10 @@ import (
 	"testing"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 // To regenerate discv5 test vectors, run

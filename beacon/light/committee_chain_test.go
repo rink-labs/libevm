@@ -21,10 +21,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/beacon/params"
-	"github.com/ava-labs/libevm/beacon/types"
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/ethdb/memorydb"
+	"github.com/rink-labs/libevm/beacon/params"
+	"github.com/rink-labs/libevm/beacon/types"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/ethdb/memorydb"
 )
 
 var (

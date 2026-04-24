@@ -24,10 +24,10 @@ import (
 	mrand "math/rand"
 	"testing"
 
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/ethdb/memorydb"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/ethdb/memorydb"
 	"golang.org/x/exp/slices"
 )
 

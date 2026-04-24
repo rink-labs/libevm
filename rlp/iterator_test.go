@@ -19,7 +19,7 @@ package rlp
 import (
 	"testing"
 
-	"github.com/ava-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/common/hexutil"
 )
 
 // TestIterator tests some basic things about the ListIterator. A more

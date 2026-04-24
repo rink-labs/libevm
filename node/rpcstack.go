@@ -30,8 +30,8 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/rpc"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/rpc"
 	"github.com/rs/cors"
 )
 

@@ -17,11 +17,11 @@
 package trie
 
 import (
-	"github.com/ava-labs/libevm/common"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/rlp"
-	"github.com/ava-labs/libevm/trie/trienode"
-	"github.com/ava-labs/libevm/triedb/database"
+	"github.com/rink-labs/libevm/common"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/trie/trienode"
+	"github.com/rink-labs/libevm/triedb/database"
 )
 
 // SecureTrie is the old name of StateTrie.

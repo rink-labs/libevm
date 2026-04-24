@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ava-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/metrics"
 )
 
 var (

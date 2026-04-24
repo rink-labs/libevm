@@ -24,11 +24,11 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/ava-labs/libevm/core"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/eth/tracers/logger"
-	"github.com/ava-labs/libevm/tests"
+	"github.com/rink-labs/libevm/core"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/eth/tracers/logger"
+	"github.com/rink-labs/libevm/tests"
 	"github.com/urfave/cli/v2"
 )
 

@@ -25,9 +25,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ava-labs/libevm/common/hexutil"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/common/hexutil"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p/enode"
 )
 
 func TestVector_ECDH(t *testing.T) {

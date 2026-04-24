@@ -27,12 +27,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/internal/testlog"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/discover/v5wire"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/rlp"
+	"github.com/rink-labs/libevm/internal/testlog"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/discover/v5wire"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/rlp"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/exp/slices"
 )

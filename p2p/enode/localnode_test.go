@@ -21,8 +21,8 @@ import (
 	"net"
 	"testing"
 
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/p2p/enr"
 	"github.com/stretchr/testify/assert"
 )
 

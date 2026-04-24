@@ -26,9 +26,9 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/params"
 	"golang.org/x/exp/slices"
 )
 

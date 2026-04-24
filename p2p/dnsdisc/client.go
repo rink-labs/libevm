@@ -27,12 +27,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ava-labs/libevm/common/lru"
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/crypto"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/common/lru"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/crypto"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
 	"golang.org/x/sync/singleflight"
 	"golang.org/x/time/rate"
 )

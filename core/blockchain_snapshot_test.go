@@ -29,13 +29,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/libevm/consensus"
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/types"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/ethdb"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/consensus"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/types"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/ethdb"
+	"github.com/rink-labs/libevm/params"
 )
 
 // snapshotTestBasic wraps the common testing fields in the snapshot tests.

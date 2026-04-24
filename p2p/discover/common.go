@@ -21,11 +21,11 @@ import (
 	"net"
 	"time"
 
-	"github.com/ava-labs/libevm/common/mclock"
-	"github.com/ava-labs/libevm/log"
-	"github.com/ava-labs/libevm/p2p/enode"
-	"github.com/ava-labs/libevm/p2p/enr"
-	"github.com/ava-labs/libevm/p2p/netutil"
+	"github.com/rink-labs/libevm/common/mclock"
+	"github.com/rink-labs/libevm/log"
+	"github.com/rink-labs/libevm/p2p/enode"
+	"github.com/rink-labs/libevm/p2p/enr"
+	"github.com/rink-labs/libevm/p2p/netutil"
 )
 
 // UDPConn is a network connection on which discovery can operate.

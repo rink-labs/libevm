@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/ava-labs/libevm/internal/flags"
+	"github.com/rink-labs/libevm/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

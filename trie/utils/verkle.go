@@ -21,8 +21,8 @@ import (
 	"sync"
 
 	"github.com/crate-crypto/go-ipa/bandersnatch/fr"
-	"github.com/ava-labs/libevm/common/lru"
-	"github.com/ava-labs/libevm/metrics"
+	"github.com/rink-labs/libevm/common/lru"
+	"github.com/rink-labs/libevm/metrics"
 	"github.com/gballet/go-verkle"
 	"github.com/holiman/uint256"
 )

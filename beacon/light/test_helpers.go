@@ -21,10 +21,10 @@ import (
 	"crypto/sha256"
 	mrand "math/rand"
 
-	"github.com/ava-labs/libevm/beacon/merkle"
-	"github.com/ava-labs/libevm/beacon/params"
-	"github.com/ava-labs/libevm/beacon/types"
-	"github.com/ava-labs/libevm/common"
+	"github.com/rink-labs/libevm/beacon/merkle"
+	"github.com/rink-labs/libevm/beacon/params"
+	"github.com/rink-labs/libevm/beacon/types"
+	"github.com/rink-labs/libevm/common"
 )
 
 func GenerateTestCommittee() *types.SerializedSyncCommittee {

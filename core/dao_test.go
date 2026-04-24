@@ -20,10 +20,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/libevm/consensus/ethash"
-	"github.com/ava-labs/libevm/core/rawdb"
-	"github.com/ava-labs/libevm/core/vm"
-	"github.com/ava-labs/libevm/params"
+	"github.com/rink-labs/libevm/consensus/ethash"
+	"github.com/rink-labs/libevm/core/rawdb"
+	"github.com/rink-labs/libevm/core/vm"
+	"github.com/rink-labs/libevm/params"
 )
 
 // Tests that DAO-fork enabled clients can properly filter out fork-commencing
